@@ -1,0 +1,1 @@
+java -cp "libs/junit-4.12.jar;libs/mockito-all-1.9.5.jar;src" org.junit.runner.JUnitCore TestSort
